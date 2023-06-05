@@ -1,8 +1,8 @@
-##Efficient Collective Action for Tackling Time-Critical Cybersecurity Threats
+# Efficient Collective Action for Tackling Time-Critical Cybersecurity Threats
 
 written by Sébastien Gillard, Dimitri Percia David, Alain Mermoud and Thomas Maillart
 
-#Abstract
+# Abstract
 The latency reduction between the discovery of vulnerabilities, the build-up and dissemination of cyber-attacks has put
 significant pressure on cybersecurity professionals. For that, security researchers have increasingly resorted to collective
 action in order to reduce the time needed to characterize and tame outstanding threats. Here, we investigate how joining
