@@ -1,4 +1,4 @@
-#Efficient Collective Action for Tackling Time-Critical Cybersecurity Threats
+##Efficient Collective Action for Tackling Time-Critical Cybersecurity Threats
 
 written by Sébastien Gillard, Dimitri Percia David, Alain Mermoud and Thomas Maillart
 
